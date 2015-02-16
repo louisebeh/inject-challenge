@@ -1,5 +1,4 @@
-# inject-method
-=======
+
 Inject Challenge (Rubyist Badge)
 ================
 
